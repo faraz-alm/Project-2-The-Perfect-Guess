@@ -1,0 +1,8 @@
+Write a Program that generates a random number and asks the user to guess it.
+
+If the Player's guess is higher than the actual number, the program displays "Aim Lower".
+Similarly, if the user's guess is too low, the program prints "Aim Larger". When the user guesses
+the correct number, the program displays the number of guesses the player used to arrive
+at the number.
+
+Also, update the high score of the player in a .txt file. 
